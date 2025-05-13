@@ -8,3 +8,5 @@
 - HTML
 - CSS
 - JavaScript
+
+![](https://velog.velcdn.com/images/gayeong__0916/post/ce612f18-aec7-4c33-8a19-57a39409e8cf/image.png)
