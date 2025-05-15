@@ -1,7 +1,7 @@
 # 간단한 To Do 앱
 
 ## 프로젝트 개요
-- HTML, CSS, JavaScript만으로 간단한 To-do List
+HTML, CSS, JavaScript만으로 간단한 To-do List
 
 ## 기능 목록
 - 할 일 추가
