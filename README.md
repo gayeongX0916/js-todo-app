@@ -1,4 +1,4 @@
-# 간단한 To Do 앱
+# 간단한 To Do List
 
 ## 프로젝트 개요
 HTML, CSS, JavaScript만으로 간단한 To-do List
